@@ -1,0 +1,6 @@
+﻿{
+    "downloadUrl":  "https://github.com/LeoPalanca/bios-widget-releases/releases/latest/download/BIOS-Widget-Setup.exe",
+    "version":  "2.1.0",
+    "published":  "2026-11-19T12:58:19.5377217+01:00",
+    "notes":  "Official standalone installer release. Includes native C# launcher (BIOSWidget.exe), automated Start Menu / Startup integration, SIL Montserrat fonts, and non-admin installation to %LOCALAPPDATA%\\Programs\\BIOS Widget."
+}
