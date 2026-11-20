@@ -1,6 +1,6 @@
 {
     "downloadUrl":  "https://github.com/LeoPalanca/bios-widget-releases/releases/latest/download/BIOS-Widget-Setup.exe",
-    "version":  "2.2.0",
-    "published":  "2026-11-20T15:22:53.8866344+01:00",
-    "notes":  "BIOS Desktop Widget 2.2.0\n\n- Guida al posto del portale Dev (help.board.com), link PlanningPME pre-autenticato e nuovo collegamento Welfare (Well-Work).\n- Rinomina ed eliminazione delle commesse dal menu a tre punti.\n- Cartella di esportazione scelta dall\u0027utente con pulsante Sfoglia; niente piu file di export duplicati o .tmp orfani.\n- Corretto il bug dei caratteri accentati che si corrompevano e crescevano a ogni salvataggio.\n- Il widget non finisce piu sopra la barra di Windows, anche con la barra in autohide.\n- Il workbook automatico dei rapportini non viene piu riscritto ogni 15 secondi."
+    "version":  "2.2.1",
+    "published":  "2026-11-20T15:35:20.1467021+01:00",
+    "notes":  "BIOS Desktop Widget 2.2.1\n\n- Guida al posto del portale Dev (help.board.com), link PlanningPME pre-autenticato e nuovo collegamento Welfare (Well-Work).\n- Rinomina ed eliminazione delle commesse dal menu a tre punti.\n- Cartella di esportazione scelta dall\u0027utente con pulsante Sfoglia; niente piu file di export duplicati o .tmp orfani.\n- Corretto il bug dei caratteri accentati che si corrompevano e crescevano a ogni salvataggio.\n- Il widget non finisce piu sopra la barra di Windows, anche con la barra in autohide.\n- Il workbook automatico dei rapportini non viene piu riscritto ogni 15 secondi.\n- Il pacchetto condiviso non contiene piu riferimenti alle funzioni solo personali."
 }
