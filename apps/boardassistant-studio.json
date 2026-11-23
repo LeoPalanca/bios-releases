@@ -1,0 +1,10 @@
+{
+    "app":  "boardassistant-studio",
+    "name":  "BoardAssistant Studio",
+    "version":  "1.0.0",
+    "published":  "2026-11-23T11:14:55Z",
+    "tag":  "boardassistant-studio-v1.0.0",
+    "downloadUrl":  "https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.0.0/BoardAssistant-Studio-Setup.exe",
+    "sha256":  "58dd23a08f41f13be2e3c3241ac7884b6cad026dab5c17ee4c86d09d9a1a282b",
+    "notes":  "Prima versione: schede dei progetti, anteprime 16:9, Stile, lettura di Board, assistente DeepSeek, Claude o Claude Code"
+}
