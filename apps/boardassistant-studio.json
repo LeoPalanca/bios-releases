@@ -1,10 +1,10 @@
 {
-    "app":  "boardassistant-studio",
-    "name":  "BoardAssistant Studio",
-    "version":  "1.1.0",
-    "published":  "2026-11-23T11:32:44Z",
-    "tag":  "boardassistant-studio-v1.1.0",
-    "downloadUrl":  "https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.1.0/BoardAssistant-Studio-Setup.exe",
-    "sha256":  "14d83f28c2f151dd55249bfedb5e61f62b501edf0dcaf4818f6dcef32f51418a",
-    "notes":  "Aggiornamento automatico; assistente DeepSeek, Claude con chiave API o Claude Code"
+    "app": "boardassistant-studio",
+    "name": "BoardAssistant Studio",
+    "version": "1.2.0",
+    "published": "2026-11-23T14:11:55Z",
+    "tag": "boardassistant-studio-v1.2.0",
+    "downloadUrl": "https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.2.0/BoardAssistant-Studio-Setup.exe",
+    "sha256": "fb333b34fcecacb4abd3b725e2fdcdeb3ace2f8d4a73b331b80de58621560e88",
+    "notes": "Finestra sempre in primo piano; conversazioni salvate; esportazione di chat e attività"
 }

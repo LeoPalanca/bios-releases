@@ -5,7 +5,7 @@ Official public releases and installer downloads of BiOS desktop apps.
 | App | Latest | Download |
 | --- | --- | --- |
 | BIOS Desktop Widget | 2.3.0 | [BIOS-Widget-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/latest/download/BIOS-Widget-Setup.exe) (~2.5 MB) |
-| BoardAssistant Studio | 1.1.0 | [BoardAssistant-Studio-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.1.0/BoardAssistant-Studio-Setup.exe) (~115 MB) |
+| BoardAssistant Studio | 1.2.0 | [BoardAssistant-Studio-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.2.0/BoardAssistant-Studio-Setup.exe) (~115 MB) |
 
 Each app's current version, download address and SHA-256 are in `apps/<app>.json`.
 
