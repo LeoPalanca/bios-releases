@@ -2,9 +2,9 @@
     "app":  "bios-widget",
     "name":  "BIOS Desktop Widget",
     "version":  "2.3.0",
-    "published":  "2026-11-23T11:49:23.4630689Z",
+    "published":  "2026-11-23T15:28:24.2125229Z",
     "tag":  "bios-widget-v2.3.0",
     "downloadUrl":  "https://github.com/LeoPalanca/bios-releases/releases/download/bios-widget-v2.3.0/BIOS-Widget-Setup.exe",
-    "sha256":  "696bc373520227512d867dd5f5053e05dcade75cc75fdcac3e8f5bdae8c235c1",
+    "sha256":  "5223570fa52d664c31ac6769527ef77a701f6c7007995b907999859861920291",
     "notes":  "Collegamenti personalizzati e VPN"
 }
