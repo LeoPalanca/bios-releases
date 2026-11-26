@@ -4,8 +4,8 @@ Official public releases and installer downloads of BiOS desktop apps.
 
 | App | Latest | Download |
 | --- | --- | --- |
-| BIOS Desktop Widget | 2.3.0 | [BIOS-Widget-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/latest/download/BIOS-Widget-Setup.exe) (~2.5 MB) |
-| BoardAssistant Studio | 2.0.0 | [BoardAssistant-Studio-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v2.0.0/BoardAssistant-Studio-Setup.exe) (~158 MB) |
+| BIOS Desktop Widget | 2.3.1 | [BIOS-Widget-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/latest/download/BIOS-Widget-Setup.exe) (~2.5 MB) |
+| BoardAssistant Studio | 2.1.0 | [BoardAssistant-Studio-Setup.exe](https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v2.1.0/BoardAssistant-Studio-Setup.exe) (~158 MB) |
 
 Each app's current version, download address and SHA-256 are in `apps/<app>.json`.
 
@@ -19,7 +19,7 @@ Each app's current version, download address and SHA-256 are in `apps/<app>.json
 
 ## BoardAssistant Studio
 
-The desktop app for building Board applications with BoardAutomate: project tabs, 16:9 screen previews, the client's design system, a read-only Board inventory and an assistant (DeepSeek or Claude through Pi, or Claude Code with your own sign-in).
+The desktop app for building Board applications with BoardAutomate: project tabs, 16:9 screen previews, the client's design system, a read-only Board inventory and an assistant (DeepSeek, Claude or Regolo through Pi, or Claude Code with your own sign-in).
 
 ### Installation:
 1. Download BoardAssistant-Studio-Setup.exe and double-click it. It installs per-user, no administrator rights needed. It writes about 7,800 files, so it can take a few minutes.
