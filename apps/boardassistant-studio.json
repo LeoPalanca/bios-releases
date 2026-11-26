@@ -1,10 +1,10 @@
 {
     "app": "boardassistant-studio",
     "name": "BoardAssistant Studio",
-    "version": "1.2.0",
-    "published": "2026-11-23T14:11:55Z",
-    "tag": "boardassistant-studio-v1.2.0",
-    "downloadUrl": "https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v1.2.0/BoardAssistant-Studio-Setup.exe",
-    "sha256": "fb333b34fcecacb4abd3b725e2fdcdeb3ace2f8d4a73b331b80de58621560e88",
-    "notes": "Finestra sempre in primo piano; conversazioni salvate; esportazione di chat e attività"
+    "version": "2.0.0",
+    "published": "2026-11-26T08:58:40Z",
+    "tag": "boardassistant-studio-v2.0.0",
+    "downloadUrl": "https://github.com/LeoPalanca/bios-releases/releases/download/boardassistant-studio-v2.0.0/BoardAssistant-Studio-Setup.exe",
+    "sha256": "d2309ebaddf34fcfd24b73a2f4282a172e009bff6d5932917af7ef6a84de30e4",
+    "notes": "Installi ed è pronto: BoardAutomate, Node.js e Pi inclusi; Claude Code si installa dal menu del modello"
 }
